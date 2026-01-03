@@ -1,16 +1,45 @@
-## Hi there 👋
+## Hi there 👋 I'm Imane
 
-<!--
-**imane-bouaziz/imane-bouaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student  
+💻 Full Stack Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+I'm a passionate **Full Stack Developer** who enjoys building modern, user-friendly, and efficient web applications.  
+I like working on both frontend and backend, and turning ideas into real projects.
+
+I'm constantly learning new technologies and improving my development skills.
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+- HTML, CSS, JavaScript
+- React
+- Angular
+- TailwindCSS, Bootstrap
+
+**Backend**
+- Node.js, Express.js
+- Python (Django - basics)
+
+**Database**
+- MySQL
+- MongoDB
+- SQLite
+
+**Tools**
+- Git & GitHub
+- VS Code
+- Postman
+
+---
+
+### 📌 Projects
+- 🛒 **E-commerce Platform** (React, Node.js, MongoDB)
+- 🍳 **Recipe Application** (Angular / Ionic, Firebase)
+
+
+👉 Check my repositories to see more!
